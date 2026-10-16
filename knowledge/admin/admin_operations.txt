@@ -1,0 +1,3 @@
+Super-user administrator guide: The super-user can add books, set inventory and price, choose a book cover image and an internal figure, edit taboo words, deposit funds to customer accounts, and reopen suspended accounts only after their balances become positive.
+The admin panel includes finance totals and automatic no-order / to-order lists from rated books. The financial report contains gross book sales, assessed overdraft fines, the number of transactions, deposits that fund customer wallets, and total customer wallet balances. Wallet deposits must not be treated as book-sales revenue.
+The super-user may ask the chatbot for a finance report. Other roles cannot access that report or admin knowledge files.

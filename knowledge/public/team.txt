@@ -1,0 +1,4 @@
+Team and project: This is a student-built AI-enabled multimodal smart bookstore prototype named Lumina.
+Project scope: desktop book catalog, wallet purchases, VIP privileges, book reviews, image queries, voice and optional face identification, a local RAG assistant, and a suggested reading journey.
+Technical architecture: Python Tkinter desktop GUI, SQLite persistence, MFCC-based short-audio speaker classification, optional OpenCV LBPH face recognition, Pillow image comparison, and locally installed Ollama chat. The app does not require paid APIs.
+The application runs locally and stores project data in its data folder on the same computer. Book pictures are stored as local images.

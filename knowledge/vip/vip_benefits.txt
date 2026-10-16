@@ -1,0 +1,2 @@
+VIP benefits: VIP status is awarded automatically when a registered customer has completed more than three book purchases OR paid more than 200 US dollars cumulatively. A VIP receives a 10-percent price discount on each following purchase while remaining a VIP.
+A VIP whose comment contains more than three forbidden words receives a warning and is demoted to a registered customer. Later blocked comments while an RC may lead to suspension when warning count exceeds two.

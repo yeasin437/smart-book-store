@@ -1,0 +1,3 @@
+Registered customer guidance: RC accounts can deposit mock funds, buy books, view purchase history, write verified-purchase reviews, and build personalized recommendations. A deposit in this demo is not a real payment transaction.
+Each accepted purchase is saved in local history and decreases inventory. The purchase amount and overdraft penalty are displayed separately. If an overdraft causes suspension, ask the super-user to add enough money to make the wallet positive and explicitly reopen the account.
+For customer support contact the super-user in the demonstration app. Customers cannot reopen their own suspended accounts by signing in.

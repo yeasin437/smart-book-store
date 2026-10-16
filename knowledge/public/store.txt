@@ -1,0 +1,8 @@
+Store name: Lumina Smart Bookstore. Lumina is a demonstration academic bookstore built by the student development team.
+Visitors can browse books by category, author, year, and title, search cover images and internal figures, and post reviews without registering.
+To buy a book, create a registered customer account. Customer registration and sign-in use a password plus a recorded voice or face sample.
+Registered and VIP customers have a wallet balance. A book purchase can exceed a wallet balance, but the app adds a one-dollar overdraft fine and immediately suspends the account if its balance becomes negative. Only the super-user may deposit money and reopen a suspended account. A reopened account must have a positive balance.
+Customers who make more than three purchases or spend more than $200 become VIP. VIP customers receive a 10% discount on purchases made while VIP.
+Any visitor or customer can post 1-to-5-star book reviews. Ratings from verified purchasers count double. More than three eligible ratings with a weighted average below two puts a book on the no-order list. More than three eligible ratings with weighted average above four puts it on the to-order list.
+The super-user maintains the list of forbidden words. These are replaced with asterisks in posted comments. Comments containing more than three forbidden words are blocked.
+Book suggestions combine viewing/purchase preferences with popular books. There is also a creative personalized three-book reading journey feature.
